@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:front_project/presentation/resources/app_color.dart';
-import 'package:front_project/presentation/resources/app_style.dart';
+import 'package:front_project/core/resources/app_color.dart';
+import 'package:front_project/core/resources/app_style.dart';
+
 
 class PrimaryButton extends StatelessWidget {
   const PrimaryButton({
